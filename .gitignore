@@ -3,7 +3,7 @@
 .settings
 .externalToolBuilders
 /.idea
-/src/app/etc/local.xml
+
 /src/app/etc/local.xml.phpunit
 /src/media
 /src/var
