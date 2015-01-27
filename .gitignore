@@ -1,0 +1,17 @@
+.buildpath
+.project
+.settings
+.externalToolBuilders
+/.idea
+/src/app/etc/local.xml
+/src/app/etc/local.xml.phpunit
+/src/media
+/src/var
+/src/app/code/local/Ottogourmet/Ogcustomer/data/customer_number
+/src/php_error.log
+/nbproject/
+*~
+/src/app/etc/modules/BrandMates_BonimaBe.xml
+/src/app/etc/modules/Clusters_Bonima.xml
+/src/app/etc/modules/Ottogourmet_BonimaExtended.xml
+/src/.htaccess
